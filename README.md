@@ -1,0 +1,1 @@
+I have changed my project idea from the first assignment to this. I did that because the old design I choose was a bit to simpel. There were no text, fontfamily or anythin of that to recreate and therefore i switched to this design. 

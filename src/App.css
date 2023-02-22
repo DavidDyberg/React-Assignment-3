@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira&display=swap');
+
+html {
+  height: 100vh;
+}
+
+* {
+  font-family: 'Saira';
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  font-family: 'Saira';
+  background-color: rgba(232, 249, 249, 0.735);
+  height: 100%;
+  margin: 0;
+}
+
+header {
+  background-color: rgb(80, 80, 158);
+  padding: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.description-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.description {
+  color: black;
+  text-align: center;
+  font-size: 24px;
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.mission-description {
+  font-size: 18px;
+  color: black;
+  width: 1000px;
+  text-align: center;
+}
+
+.image-container {
+  text-align: center;
+  background-image: url(./assets/space.png);
+  width: 1152px;
+  height: 700px;
+  background-size: cover;
+  padding-top: 275px;
+  background-position: center center;
+}
+
+p {
+  color: white;
+  display: block;
+}
+
+span {
+  color: #ffffff;
+  font-size: 16px;
+  position: absolute;
+  margin-left: -37px;
+  margin-top: 10px;
+  letter-spacing: 0px;
+}
+
+.countdown {
+  letter-spacing: 10px;
+}
+
+.firstp {
+  font-size: 144px;
+  line-height: 144px;
+  height: 110px;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 56px;
+  margin-top: 124px;
+  letter-spacing: 0px;
+}
+
+.seacondp {
+  font-size: 72px;
+  height: 82px;
+  text-align: center;
+  height: 56px;
+  line-height: 72px;
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+
+.countdown-container {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.footer-text {
+  color: black;
+}
+
+
+
+
+
+
